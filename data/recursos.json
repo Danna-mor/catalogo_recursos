@@ -12,5 +12,12 @@
         "tema": "Control de versiones",
         "nivel": "Principiante",
         "autor": "Universidad de León"
+    },
+    {
+        "titulo": "Git y GitHub",
+        "tipo": "Sitio web",
+        "tema": "Control",
+        "nivel": "Maestro",
+        "autor": "Universidad de León"
     }
 ]
