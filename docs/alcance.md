@@ -8,5 +8,5 @@ consultar y administrar diferentes recursos educativos.
 - Consultar tareas.
 - Modificar tareas.
 - Marcar tareas como terminadas.
-
-
+- Mostrar quién asignó una tarea.
+- Agregar una opción de prorroga para entrega de tareas.
