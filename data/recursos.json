@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "Python para principiantes",
+        "tipo": "Libro",
+        "tema": "Programación",
+        "nivel": "Principiante",
+        "autor": "Danna moreno"
+    },
+    {
+        "titulo": "Introducción a Git y GitHub",
+        "tipo": "Sitio web",
+        "tema": "Control de versiones",
+        "nivel": "Principiante",
+        "autor": "Universidad de León"
+    }
+]
