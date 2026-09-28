@@ -29,7 +29,9 @@ clasificar y consultar recursos académicos.
 
 ## Preparación del entorno
 
-Crear un entorno virtual:
+Crear un entorno virtual: .venv
 
-```bash
-python -m venv .venv
+##Proximas mejoras
+
+Actualizaciones cada mes
+
