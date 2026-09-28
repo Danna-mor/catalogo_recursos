@@ -6,3 +6,5 @@
 - Creación de las carpetas principales.
 - Incorporación del catálogo inicial de recursos.
 - Configuración inicial del entorno y dependencias.
+
+*Documentación adicional agregada*
