@@ -1,0 +1,2 @@
+¿Qué ventaja tiene registrar las dependencias del proyecto en requirements.txt en lugar de compartir la carpeta .venv?
+para si se comparte, no tenga ninguna duda o que tenga bibliotecas diferentes y necesite una de ahi
