@@ -35,3 +35,4 @@ Crear un entorno virtual: .venv
 
 Actualizaciones cada mes
 
+## Tipo de recursos
